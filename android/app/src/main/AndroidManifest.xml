@@ -11,7 +11,7 @@
             android:resource="@xml/gma_ad_services_config"
             tools:replace="android:resource" />
 
-        <!-- AdMob App ID (test ID for development, replace with real ID for production) -->
+        <!-- AdMob App ID (production) -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3940256099942544~3347511713" />
